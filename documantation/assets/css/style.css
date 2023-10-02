@@ -50,7 +50,7 @@ html {
 .fixed-menu-info .fixed-menu {
   color: #000;
   position: absolute !important;
-  height: 400px;
+  height: 300px;
   display: block;
 }
 
@@ -69,4 +69,8 @@ html {
   .responsive-left{
     display: none;
   }
+}
+
+.img-div img {
+  width: 600px !important;
 }
