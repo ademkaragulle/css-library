@@ -50,7 +50,6 @@ html {
 .fixed-menu-info .fixed-menu {
   color: #000;
   position: absolute !important;
-  height: 300px;
   display: block;
 }
 
